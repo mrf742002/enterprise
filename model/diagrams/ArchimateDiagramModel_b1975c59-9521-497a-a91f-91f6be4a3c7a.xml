@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nobia Central"
+    id="b1975c59-9521-497a-a91f-91f6be4a3c7a"
+    viewpoint="application_usage">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="997304f1-084c-4ade-9d68-5e29cd9f4316">
+    <bounds
+        x="420"
+        y="228"
+        width="277"
+        height="301"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d986c191-0bdc-4df7-826a-98957a95f92a">
+      <bounds
+          x="84"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_53.xml#53"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="3ed4c175-62af-4875-b2cd-33d54ba43769">
+      <bounds
+          x="84"
+          y="168"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_54.xml#54"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_c35d67fb-ed17-4856-b6ce-0bd62b6483e0.xml#c35d67fb-ed17-4856-b6ce-0bd62b6483e0"/>
+  </children>
+</archimate:ArchimateDiagramModel>

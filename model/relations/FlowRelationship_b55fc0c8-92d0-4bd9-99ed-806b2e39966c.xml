@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Order Delivery Dates"
+    id="b55fc0c8-92d0-4bd9-99ed-806b2e39966c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_26f1d008-9f42-4507-bdff-c5f68b6f89ef.xml#26f1d008-9f42-4507-bdff-c5f68b6f89ef"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_29.xml#29"/>
+</archimate:FlowRelationship>
