@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Flag"
+    id="7fedaa72-8d1e-4aee-b010-4590a17439d1"
+    documentation="IN002&#x9;- Despatch Credit Flag to allow/disllow Delivery">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_d5b82d7d-8ba1-4c0a-8570-b5f91d84f6a5.xml#d5b82d7d-8ba1-4c0a-8570-b5f91d84f6a5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_14.xml#14"/>
+</archimate:FlowRelationship>
