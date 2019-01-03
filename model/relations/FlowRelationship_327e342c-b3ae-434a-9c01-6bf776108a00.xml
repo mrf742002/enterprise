@@ -1,11 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Despatches @ Line Level for Invoicing"
-    id="527ed096-2f68-4356-9db6-fa2496d3f4a0">
+    name="B2B Invoices"
+    id="327e342c-b3ae-434a-9c01-6bf776108a00">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_d2d5b928-de32-4c5b-89e5-7cb68188ecd2.xml#d2d5b928-de32-4c5b-89e5-7cb68188ecd2"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_8c7c6e05-5dcd-4f93-a1d3-1882aba932dd.xml#8c7c6e05-5dcd-4f93-a1d3-1882aba932dd"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_31.xml#31"/>
